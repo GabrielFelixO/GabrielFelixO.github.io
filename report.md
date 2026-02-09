@@ -1,0 +1,1 @@
+I have learnt how to create a GitHub repository and clone the repository to my local machine. In preperation for the lab I learnt the basics of the HTML language. Furthermore, I learnt the basics of CSS and understand the benefits of it.
